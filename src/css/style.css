@@ -1,0 +1,6 @@
+.carousel-item img {
+    max-width: 50%; /* Puedes ajustar este valor según tus preferencias */
+    max-height: 50vh; /* Puedes ajustar este valor según tus preferencias */
+    margin: auto;
+    display: block;
+  }
